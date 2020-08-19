@@ -12,8 +12,8 @@ url_checker() {
 
 echo
 echo
-echo -e "\e[    𝗦𝗖𝗥𝗜𝗣𝗧𝗦 :~ \e[40;38;5;82m   𝔸𝕟𝕥𝕚ℙ𝕙𝕚𝕤𝕄1�7 \e[0m"
-echo -e "\e[    𝗠𝗔𝗗𝗘 𝗕𝗬 :~ \e[40;38;5;82m     𝔾𝕙𝕠𝕤𝕥𝕙𝕦𝕓 \e[0m" 
+echo -e "\e[    ð—¦ð—–ð—¥ð—œð—£ð—§ð—¦ :~ \e[40;38;5;82m   ＡｎｔｉＰｈｉｓｈ  \e[0m"
+echo -e "\e[    ð— ð—”ð——ð—˜ ð—•ð—¬ :~ \e[40;38;5;82m     ð”¾ð•™ð• ð•¤ð•¥ð•™ð•¦ð•“ \e[0m" 
 echo
 echo
 echo -e "\e[1;31;42m ### Phishing URL ###\e[0m"
